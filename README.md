@@ -13,10 +13,6 @@ Tap The Dot is a simple yet addictive game where players must tap on dots that a
 - Increasing difficulty levels
 - Colorful visual design
 
-## Screenshots
-
-[Add screenshots of your game here]
-
 ## Getting Started
 
 ### Prerequisites
